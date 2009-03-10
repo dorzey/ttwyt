@@ -29,7 +29,7 @@ API = {'ttwyt':{
        'getdepts':[('output',), ()],
        }}
 
-OUTPUTS = ['xml', 'php']
+OUTPUTS = ['xml', 'serialised']
 SERVICE_URL = 'http://data.tellthemwhatyouthink.org/api/dispatch.php?'
 
 class TTWYT():
