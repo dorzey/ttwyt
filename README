@@ -1,0 +1,6 @@
+The binding still under development.  Please let me know if you find and bugs.  Thanks!
+
+Usage:
+
+y = TTWYT()
+y.twfy.METHOD(PARAMS) 
